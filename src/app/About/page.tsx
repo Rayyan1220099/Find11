@@ -45,7 +45,7 @@ export default function AboutPage() {
 
       {/* Vision Section */}
 
-        <h2 className="text-4xl font-bold  text-center text-[#222] mb-6">Our Vision</h2>
+        <h2 className="text-4xl font-bold  text-center text-[#222] mb-6"></h2>
     <Vision/>
      <br/>
     </div>
